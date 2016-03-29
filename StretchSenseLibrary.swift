@@ -17,18 +17,6 @@ class StretchSenseClass: NSObject, CBCentralManagerDelegate, CBPeripheralDelegat
     
     // MARK: - Variables
     
-    //
-    //
-    //
-    ///
-    ///
-    ///
-    ///
-    ///
-    ///
-    //
-    //
-    
     // MARK: - Variables : Manager & Peripherals
     
     /* Central & List of peripheral available and connected */
